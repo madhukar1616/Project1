@@ -6,6 +6,8 @@ public class web {
 		
 		
 		System.out.println("Project");
+		System.out.println("Project");
+		System.out.println("Project");
 
 	}
 
